@@ -1,2 +1,1 @@
-# github-essentials-lab
-Github essentials lab
+# GitHub Essentials Lab
